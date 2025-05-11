@@ -27,3 +27,4 @@ Sonuçları Ön İzle (Preview Results) seçeneğine tıklayarak gönderi sayıs
 Toplu belge birleştirme işlemi için Birleştir ve Yazdır (Finish & Merge) seçeneğine tıklayın.
 
 Yazdırmayı doğrudan yazıcıya gönderebilir veya PDF Olarak Kaydet seçeneğini kullanabilirsiniz.
+Ayrıca arka fon resmini başka resimlerle değiştirebilirsiniz.
