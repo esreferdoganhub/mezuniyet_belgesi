@@ -2,7 +2,7 @@ Mezuniyet_Belgesi
 
 Bu doküman, öğrenci listesi ve toplu posta gönderimi işlemleri için adım adım rehber sunmaktadır.
 
-1. Release
+1. Releases
 
 GitHub üzerindeki Releases kısmından son güncel sürümü indirin.
 
